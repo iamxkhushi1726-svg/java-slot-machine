@@ -1,7 +1,3 @@
-Here is your complete, updated **`README.md`** file with your actual terminal execution log included under a new **Terminal Demo** section and your GitHub links correctly updated.
-
----
-
 # 🎰 Java Slot Machine
 
 **Project 18 of 100** — A terminal-based Java slot machine game built while learning Java fundamentals.
