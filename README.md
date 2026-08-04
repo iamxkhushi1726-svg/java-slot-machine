@@ -1,6 +1,6 @@
 # 🎰 Java Slot Machine
 
-**Project 18 of 100** — A terminal-based Java slot machine game built while learning Java fundamentals.
+**Project 18** — A terminal-based Java slot machine game built while learning Java fundamentals.
 
 ---
 
@@ -202,7 +202,5 @@ java-slot-machine/
 * [ ] Package as an executable `.jar` file.
 
 ---
-
-Part of my 100-project challenge to build a strong GitHub portfolio.
 
 Follow my progress: [@iamxkhushi1726-svg](https://www.google.com/search?q=https://github.com/iamxkhushi1726-svg)
